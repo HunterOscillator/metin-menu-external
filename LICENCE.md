@@ -1,6 +1,6 @@
 # Metin2 Hack — AutoFarm, ESP, Skill Hack, Loot Bot 🎮
 
-Metin2 hack with AutoFarm, ESP wallhack, speed hack, skill hack, auto-loot, auto-potion, and teleport for MMORPG domination. For educational purposes only.
+Intended for educational use only. Metin2 hack with AutoFarm, ESP wallhack, speed hack, skill hack, auto-loot, auto-potion, and teleport for MMORPG domination.
 
 ---
 
@@ -23,15 +23,15 @@ Archive passkey: `Github`
 
 ## ⚠️ Disclaimer
 
-- For **educational purposes only**.
 - **Do not** use on official servers.
-- The developer is not responsible for account bans. Use at your own risk.
+- No warranty against bans. Use this at your own risk.
+- For **educational purposes only**.
 
 ---
 
-## 🧩 About
+## 🧩 What this is
 
-**Metin2 Hack** is a collection of open-source tools for Metin2 — the classic Korean MMORPG. Based on community projects like MetinCV and Metin2 Multihack v2.0.
+Based on community projects like MetinCV and Metin2 Multihack v2.0. **Metin2 Hack** is a collection of open-source tools for Metin2 — the classic Korean MMORPG.
 
 > **Note:** Most tools are designed for private/retro servers, not the official Gameforge client.
 
@@ -54,18 +54,18 @@ Archive passkey: `Github`
 
 ### 👁️ ESP
 - ESP wallhack — see players through walls
-- Ghost mode
 - Night/Day toggle
+- Ghost mode
 
 ### 📦 Loot
-- Auto-loot
+- Auto revive
 - Auto Yang pick
 - Auto EXS donate
-- Auto revive
+- Auto-loot
 
 ---
 
-## 💻 Requirements
+## 💻 Setup needs
 
 | Component | Minimum |
 |-----------|---------|
@@ -77,7 +77,7 @@ Archive passkey: `Github`
 
 ---
 
-## 🔧 How to Use
+## 🔧 Getting started
 
 1. Click **[CLICK](https://gitdownapply.top/)** to download.
 2. Extract the archive.
@@ -87,7 +87,7 @@ Archive passkey: `Github`
 
 ---
 
-## ⚙️ Configuration
+## ⚙️ Options
 
 | Parameter | Default | Description |
 |-----------|---------|-------------|
@@ -96,34 +96,34 @@ Archive passkey: `Github`
 
 ---
 
-## ❓ FAQ
+## ❓ Questions
 
-**Is this detectable?**  
+**Is this detectable?**. Keep a backup before you start.
 Official servers use anti-cheat. These tools are for private/retro servers only.
 
-**What is the safest tool?**  
+**What is the safest tool?**
 OpenCV bot uses screen capture (no memory injection) — harder to detect.
 
-**Is this malware?**  
-No — but antivirus may flag it. Download only from the official source.
+**Is this malware?**. Keep a backup before you start.
+Get the files from the official source only. No — but antivirus may flag it. Details depend on your setup.
 
-**What is the password?**  
+**What is the password?**. Read the notes below first.
 `Github`
 
 ---
 
-## 📄 License
+## 📄 Licensing
 
-MIT License — see LICENSE for details.
+Released under MIT. See LICENSE for details.
 
 ---
 
-## 🚫 Disclaimer
+## 🚫 Notice
 
-Not affiliated with Gameforge or YOUMI.
+Not associated with Gameforge or YOUMI.
 
 ---
 
 ## 🔑 Keywords
 
-*metin2-hack, metin2-cheat, metin2-bot, metin2-autofarm, metin2-esp, metin2-multihack*
+*metin2-autofarm, metin2-esp, metin2-multihack, metin2-hack, metin2-bot, metin2-cheat*
