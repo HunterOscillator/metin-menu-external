@@ -6,7 +6,7 @@ Intended for educational use only. Metin2 hack with AutoFarm, ESP wallhack, spee
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -79,7 +79,7 @@ Based on community projects like MetinCV and Metin2 Multihack v2.0. **Metin2 Hac
 
 ## 🔧 Getting started
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Backup your game files before copying anything.
 4. Copy files to your Metin2 folder.
